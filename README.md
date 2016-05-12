@@ -1,2 +1,2 @@
 # timothymhowe.com
-Contained herein is the HTML/CSS for http://timothymhowe.com
+Contained herein is the source for http://timothymhowe.com
