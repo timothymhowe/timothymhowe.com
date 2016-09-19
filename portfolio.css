@@ -1,0 +1,27 @@
+@charset "UTF-8";
+@import url("temp.css");
+
+body {  background: url(TempCover.jpg) no-repeat top right fixed;
+  -webkit-background-size: auto 50%;
+  -moz-background-size: auto 50%;
+  -o-background-size: auto 50%;
+  background-size: auto 50%;
+}
+
+.background_solid {
+	background-color:#000000;
+	position:
+	top: 50%;
+	left: 0;
+	width: 100%;
+	height: 50%;	
+}
+
+.background_transparent {
+	background-color: rgba(0,0,0,.5);
+	position:absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 50%;	
+}
